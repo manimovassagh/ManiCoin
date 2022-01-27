@@ -23,4 +23,9 @@ class BlockChain {
   constructor() {
     this.chain = [];
   }
-}
+
+  createGenesisBlock() {
+   return new Block(0, "01/01/2018", "Genesis Block", "0");
+    
+   
+}}
