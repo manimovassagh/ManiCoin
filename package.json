@@ -1,0 +1,22 @@
+{
+  "name": "manicoin",
+  "version": "1.0.0",
+  "description": "a simple BlockChain Crypto with JavaScript",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manimovassagh/ManiCoin.git"
+  },
+  "author": "Mani Movassagh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manimovassagh/ManiCoin/issues"
+  },
+  "homepage": "https://github.com/manimovassagh/ManiCoin#readme",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
+}
